@@ -17,5 +17,5 @@ This version marks a shift to a more flexible, data-driven approach. It uses the
 **PyChat 3.0 Directory - pairs.json**  
 This JSON file is created while using PyChat 3.0. It stores user-defined input-response pairs, enabling persistent learning across sessions. It is directly linked to PyChat 3.0, supporting its customizable and extensible conversation model.
 
-**PyChat 4.0 (Secret Mode embedded)**
+**PyChat 4.0 (Secret Mode embedded)**  
 The latest version introduces a more modular structure, with separate functions for jokes and facts, and a warning about potential destructive actions if mishandled. The chatbot retains all previous features but is designed for greater extensibility and caution. The code hints at advanced capabilities and a more serious approach to user interaction, including error handling for keyboard interruptions.
